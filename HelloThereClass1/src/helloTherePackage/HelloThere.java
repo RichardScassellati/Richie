@@ -6,6 +6,7 @@ package helloTherePackage;
 /* 
  * These are comments as well.
  * nope.avi
+ * bla
  * */
 
 public class HelloThere {
